@@ -1,0 +1,5 @@
+C:\Users\Максим\source\repos\9 практан\9 практан\obj\Debug\net6.0\9 практан.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\9 практан\9 практан\obj\Debug\net6.0\9 практан.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\9 практан\9 практан\obj\Debug\net6.0\9 практан.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\9 практан\9 практан\obj\Debug\net6.0\9 практан.AssemblyInfo.cs
+C:\Users\Максим\source\repos\9 практан\9 практан\obj\Debug\net6.0\9 практан.csproj.CoreCompileInputs.cache
